@@ -1,2 +1,2 @@
 # sportapp
-Simpl sport application built with Reactjs and Nodejs
+Simpl sport application built with Reactjs and Nodejs and Mysql
